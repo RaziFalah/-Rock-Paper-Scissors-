@@ -5,12 +5,12 @@ A very basic program about Rock-Paper-Scissors
 
 <h1>Functionality</h1>
 
-================
-|     Menu     |
-|  bot vs bot  |
-| human vs bot |
-|human vs human|
-================
+================<br /> 
+|     Menu     |<br /> 
+|  bot vs bot  |<br /> 
+| human vs bot |<br /> 
+|human vs human|<br /> 
+================<br /> 
 
 <h1>Tech</h1>
 
