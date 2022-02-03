@@ -1,7 +1,7 @@
 #Rock-Paper-Scissors
 
 <h1>About</h2>
-A very basic program about Rock-Paper-Scissors
+A very basic program that can handle Rock-Paper-Scissors
 
 <h1>Functionality</h1>
 
